@@ -4,6 +4,8 @@ Modeling of published clinical Clarithromycin-Sildenafil-DDI studies for model e
 
 Within this repository, we distribute a PK-Sim snapshot file containing simulations of published clinical studies used to evaluate the predictive performance of our models regarding the Clarithromycin-Sildenafil-DDI, including the respective observed data digitized from literature reports.
 
+**The latest release of the snapshot can be found [here](https://github.com/Open-Systems-Pharmacology/Clarithromycin-Sildenafil-DDI/releases/latest).**
+
 The reference model repositories can be found here:
 * [Clarithromycin OSP PBPK model](https://github.com/Open-Systems-Pharmacology/Clarithromycin-Model)
 * [Sildenafil OSP PBPK model](https://github.com/Open-Systems-Pharmacology/Sildenafil-Model)
